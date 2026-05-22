@@ -1,0 +1,108 @@
+# ===== IDE and Editor =====
+.metadata/
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
+
+# ===== Build Files =====
+/target/
+/build/
+/bin/
+*.class
+*.jar
+*.war
+*.ear
+*.zip
+*.tar.gz
+
+# ===== Maven =====
+pom.xml.tag
+pom.xml.releaseBackup
+release.properties
+.mvn/
+
+# ===== Gradle =====
+.gradle/
+/gradle/
+gradlew
+gradlew.bat
+
+# ===== Spring Boot =====
+/spring-boot-admin-samples/**/target/
+.spring/
+
+# ===== IntelliJ IDEA =====
+*.iml
+*.iws
+*.ipr
+out/
+
+# ===== Eclipse =====
+.classpath
+.project
+.settings/
+*.launch
+
+# ===== STS (Spring Tool Suite) =====
+.sts4-cache/
+
+# ===== NetBeans =====
+nbproject/private/
+build/
+nbbuild/
+dist/
+nbdist/
+.nb-gradle/
+
+# ===== Operating System =====
+.DS_Store
+Thumbs.db
+
+# ===== IDE Temp Files =====
+*.log
+*.pid
+*.seed
+*.swp
+*.swo
+
+# ===== Node (if using Node.js) =====
+node_modules/
+npm-debug.log
+yarn-error.log
+
+# ===== Python (if using Python) =====
+__pycache__/
+*.py[cod]
+*$py.class
+
+# ===== Environment Variables =====
+.env
+.env.local
+.env.*.local
+
+# ===== Application Properties =====
+application-local.properties
+application-dev.properties
+
+# ===== Database =====
+*.db
+*.sqlite
+*.sql
+
+# ===== Temporary Files =====
+*.tmp
+*.temp
+temp/
+tmp/
+
+# ===== Coverage Reports =====
+coverage/
+jacoco/
+*.exec
+
+# ===== Package Files =====
+*.rar
+*.7z
